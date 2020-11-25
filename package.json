@@ -45,7 +45,7 @@
     "st": "1.2.2",
     "stream-buffers": "^3.0.1",
     "tap": "^12.6.2",
-    "typeorm": "^0.2.25",
+    "typeorm": "^0.2.29",
     "snyk": "^1.421.0"
   },
   "devDependencies": {
